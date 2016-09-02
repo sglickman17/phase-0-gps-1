@@ -1,5 +1,5 @@
 # What Git concepts were you struggling with prior to the GPS session?
-I was struggling with concepts about branch.
+I was struggling with concepts about branch
 
 
 # What concepts were clarified during the GPS?
